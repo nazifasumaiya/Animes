@@ -90,7 +90,7 @@
 <br>
 <br>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Jisshubots/Jisshu-filter-bot&branch=main&name=Jisshu-filter-bot )
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](mongodb+srv://AniReal123:AniReal123@AniReal123.hetez.mongodb.net/?retrywrite=true&w=majority&appName=AniReal123 )
 </details>
 
 <details><summary>Deploy To Render</summary>
